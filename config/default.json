@@ -1,5 +1,5 @@
 {
     "port": 5000,
     "jwtSecret": "tor i tony lubyat poni",
-    "mongoUri": "mongodb+srv://anton:qwerty123@cluster0-2xhol.azure.mongodb.net/app?retryWrites=true&w=majority"
+    "mongoUri": "mongodb+srv://anton:qwerty123@cluster0-on4va.azure.mongodb.net/test?retryWrites=true&w=majority"
 }
