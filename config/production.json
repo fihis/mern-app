@@ -2,5 +2,5 @@
     "port": 5000,
     "jwtSecret": "tor i tony lubyat poni",
     "mongoUri": "mongodb+srv://anton:qwerty123@cluster0-on4va.azure.mongodb.net/test?retryWrites=true&w=majority",
-    "baseUrl": "http://localhost:5000"
+    "baseUrl": "https://serene-island-43158.herokuapp.com/"
 }
